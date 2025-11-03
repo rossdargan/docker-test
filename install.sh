@@ -86,7 +86,7 @@ fi
 
 # URL or path to your docker-compose file
 # Modify this to point to your actual docker-compose file
-COMPOSE_URL="${COMPOSE_URL:-https://raw.githubusercontent.com/example/repo/main/docker-compose.yml}"
+COMPOSE_URL="https://raw.githubusercontent.com/rossdargan/docker-test/refs/heads/main/docker-compose.yml"
 COMPOSE_FILE="docker-compose.yml"
 
 # Download docker-compose file
