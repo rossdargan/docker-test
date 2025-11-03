@@ -1,6 +1,8 @@
 Simple install method:
 
-`curl -fsSL https://raw.githubusercontent.com/rossdargan/docker-test/refs/heads/main/install.sh | sudo bash`
+``` bash
+curl -fsSL https://raw.githubusercontent.com/rossdargan/docker-test/refs/heads/main/install.sh | sudo bash
+```
 
 Safer install method:
 
